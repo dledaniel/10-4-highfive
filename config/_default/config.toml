@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = ""
-title = "Kvinfo-test"
+title = "Team 10-4 Highfive | Kvinfo"
 theme = "andromeda-light"
 # post pagination
 paginate = "6"

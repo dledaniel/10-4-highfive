@@ -9,7 +9,7 @@ logo_width = "150x"
 logo_text = "10-4 High five"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
-author = "Themefisher"
+author = "Daniel Le"
 image = "images/logo.png"                # this image will be used as fallback if a page has no image of its own
 
 # footer information
