@@ -126,8 +126,8 @@
 }
 
 .la-pulse {
-  -webkit-animation: la-spin 1s infinite steps(8);
-  animation: la-spin 1s infinite steps(8)
+  -webkit-animation: la-spin 5s infinite steps(8);
+  animation: la-spin 5s infinite steps(8)
 }
 
 @-webkit-keyframes la-spin {

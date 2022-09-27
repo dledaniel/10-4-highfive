@@ -17,7 +17,7 @@ jQuery.event.special.touchmove = {
 $(window).on('load', function () {
 	// preloader init
 	setTimeout (function(){
-		$('.preloader').fadeOut(200);
+		$('.preloader').fadeOut(1000);
 
 		setTimeout(() => {
 			$('.buy-premium').addClass('show');
@@ -26,7 +26,7 @@ $(window).on('load', function () {
 		// aos scroll-animation Init
 		function aosAnim() {
 			AOS.init({
-				duration: 600,
+				duration: 10000,
 				once: true
 			});
 		}

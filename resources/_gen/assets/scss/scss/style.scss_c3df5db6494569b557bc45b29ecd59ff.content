@@ -251,7 +251,7 @@ body {
   align-items: center;
   justify-content: center; }
   .preloader .la-spin {
-    animation: la-spin .5s infinite linear; }
+    animation: la-spin 5s infinite linear; }
 
 .link-primary {
   color: #FE6019; }
