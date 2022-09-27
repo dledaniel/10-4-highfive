@@ -121,8 +121,8 @@
 }
 
 .la-spin {
-  -webkit-animation: la-spin 2s infinite linear;
-  animation: la-spin 2s infinite linear
+  -webkit-animation: la-spin 5s infinite linear;
+  animation: la-spin 5s infinite linear
 }
 
 .la-pulse {
