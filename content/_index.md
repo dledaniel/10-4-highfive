@@ -30,7 +30,7 @@ our_team:
 
 # banner
 banner:
-  title: "Varm op til Kvindernes Internationale Kampdag med KVINFO"
+  title: "Varm op til Kvindernes Kampdag med KVINFO"
   button: "Get Premium Version"
   button_link: "https://gethugothemes.com/products/andromeda/"
   image: "images/banner-app.png"
