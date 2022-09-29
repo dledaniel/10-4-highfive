@@ -62,10 +62,10 @@ features:
   features_blocks:
   - icon: "las la-venus"
     title: "Kvindekampen"
-    content: "Vi arbejder i krydsfeltet mellem viden, politik og praksis. Som videnscenter for køn og ligestilling skaber vi overblik over forskning og viden på området og bringer denne viden i spil bredt til beslutningstagere, medier, virksomheder, organisationer og offentligheden i Danmark og internationalt."
+    content: "Vi arbejder i krydsfeltet mellem viden, politik og praksis. Vi ønsker at skabe overblik over Kvindekampen, og bringer denne viden i spil til beslutningstagere, organisationer og offentligheden i Danmark og internationalt."
   - icon: "las la-calendar"
     title: "Events"
-    content: "Vi ønsker at arrangere et event, der har til formål at varme op til Kvindernes Internationale Kampdag. Arrangementet vil holde til i Ungdommens Demokratihus, og afholdes i d. 3. marts 2023."
+    content: "Vi ønsker at arrangere et event i samarbejde med KVINFO, der har til formål at varme befolkningen op til Kvindernes Internationale Kampdag. Arrangementet vil holde til i Ungdommens Demokratihus, og afholdes i d. 3. marts 2023."
   - icon: "las la-bullhorn"
     title: "Oplsyning"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
