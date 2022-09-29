@@ -315,7 +315,7 @@
           <div class="mb-4">
             <h3>Send os en besked!</h3>
           </div>
-          <form id="contact-form" action="{{.}}" method="POST">
+          <form id="contact-form" action="{{.}}" method="POST" data-netlify="true">
             <p id="form-status" class="form-status"></p>
             <div class="form-group">
               <label for="name">Dit Navn</label>
@@ -335,6 +335,8 @@
         </div>
       </div>
       {{end}}
+
+      
 
       <script>
         var form = document.getElementById('contact-form');
