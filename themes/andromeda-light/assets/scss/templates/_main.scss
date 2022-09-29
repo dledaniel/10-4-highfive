@@ -559,7 +559,7 @@
       width: 80px;
       line-height: 80px;
       margin: auto;
-      border-radius: 15px;
+      border-radius: 18px;
       font-size: 33px;
       transition: .15s;
       position: relative;
@@ -576,7 +576,7 @@
         top: 0;
         left: 0;
         z-index: -1;
-        border-radius: 15px;
+        border-radius: 18px;
         background-color: lighten($primary-color, 43);
         transition: .35s ease;
       }
