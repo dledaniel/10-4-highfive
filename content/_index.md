@@ -57,8 +57,8 @@ brands_carousel:
 features:
   enable: true
   subtitle: "Vores mål"
-  title: "Vores mål!"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  title: "Warmup Week"
+  description: "Vi drømmer om at skabe en festlig uge op til kvindernes kampdag, for at sætte fokus på hvor vigtig ligestilling er for alle"
   features_blocks:
   - icon: "las la-venus"
     title: "Kvindekampen"
