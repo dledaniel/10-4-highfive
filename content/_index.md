@@ -68,7 +68,7 @@ features:
     content: "Vi ønsker at arrangere et event i samarbejde med KVINFO, der har til formål at varme befolkningen op til Kvindernes Internationale Kampdag. Arrangementet vil holde til i Ungdommens Demokratihus, og afholdes i d. 3. marts 2023."
   - icon: "las la-bullhorn"
     title: "Oplsyning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: "Kvindernes internationale kampdag markeres den 8. marts hvert år, for at mindes kvinders kulturelle, politiske og socioøkonomiske bedrifter. Vi ønsker at oplyse om KVINFOS arbejde i kampen om øget ligestilling i samfundet."
 
 
 # intro_video
@@ -84,7 +84,7 @@ intro_video:
 # how_it_works
 how_it_works:   
   enable: true
-  title: En titel om vores events
+  title: Humoristisk talk i en ung og uformel setting
   subtitle: Vores idé
   block:
   - subtitle: "Podcastværk, foredragsholder og coach"
