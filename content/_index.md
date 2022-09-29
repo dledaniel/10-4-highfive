@@ -87,18 +87,18 @@ how_it_works:
   title: En titel om vores events
   subtitle: Vores idé
   block:
-  - subtitle: "Ungdommens Demokratrihus"
-    title: "En titel om et event"
+  - subtitle: "Podcastværk, foredragsholder og coach"
+    title: "Mikkel Braginsky"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
     image: "images/features-01.png"
 
-  - subtitle: "Johan Borups Højskole"
-    title: "En titel om et event"
+  - subtitle: "Studerende og folketingskandidat"
+    title: "Lukas Lunøe"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
     image: "images/features-02.png"
 
-  - subtitle: "Københavns Hovedbibliotek"
-    title: "En titel om et event"
+  - subtitle: "Kommunikationsrådgiver og 'Herlige Svend'"
+    title: "Sebastian Lynggaard"
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
     image: "images/features-03.png"
 
