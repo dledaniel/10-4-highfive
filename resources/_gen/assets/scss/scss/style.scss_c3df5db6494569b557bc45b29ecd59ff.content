@@ -1032,7 +1032,7 @@ header {
     width: 80px;
     line-height: 80px;
     margin: auto;
-    border-radius: 15px;
+    border-radius: 18px;
     font-size: 33px;
     transition: .15s;
     position: relative;
@@ -1048,7 +1048,7 @@ header {
       top: 0;
       left: 0;
       z-index: -1;
-      border-radius: 15px;
+      border-radius: 18px;
       background-color: #afc1e8;
       transition: .35s ease; }
   .features .features-card:hover {
