@@ -57,7 +57,7 @@
           <ul class="footer-links list-unstyled mb-4">
             {{range first 1 .}}
             {{if .}}
-            <li><a href="mailto:{{.}}">{{.}}</a></li>
+            <li><a href="mailto:{{.}}" target="blank">{{.}}</a></li>
             {{end}}
             {{end}}
           </ul>
@@ -66,7 +66,7 @@
           {{ with site.Params.social}}
           <ul class="social-links list-inline">
             {{ range .}}
-            <li class="list-inline-item"><a href="{{.link}}" title="{{.title}}">
+            <li class="list-inline-item"><a href="{{.link}}" target="blank" title="{{.title}}">
               <i class="{{.icon}}"></i>
             </a></li>
             {{end}}
