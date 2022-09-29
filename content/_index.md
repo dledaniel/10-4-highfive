@@ -94,7 +94,7 @@ how_it_works:
 
   - subtitle: "Studerende og folketingskandidat"
     title: "Lukas Lunøe"
-    description: "Lukas Lunøe er folketingskandidat for Radikale Venstre, og tidligere landsformand for Radikal Ungdom. Han er foretaler for, at mænd bør deltage aktivt i kvindkampen, og har tidligere medvirket i den offentlige presse om netop dette. Til dagligt sturderer han Statskunskab på Københavns Universitet, og er researcher hos Rud Pedersen Public Affairs."
+    description: "Lukas Lunøe er folketingskandidat for Radikale Venstre, og tidligere landsformand for Radikal Ungdom. Han er foretaler for, at mænd bør deltage aktivt i kvindekampen, og har tidligere medvirket i den offentlige presse om netop dette. Til dagligt sturderer han Statskunskab på Københavns Universitet, og er researcher hos Rud Pedersen Public Affairs."
     image: "images/features-02.png"
 
   - subtitle: "Kommunikationsrådgiver"
