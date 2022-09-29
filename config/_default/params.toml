@@ -16,7 +16,7 @@ image = "images/logo.png"                # this image will be used as fallback i
 footer_info = "Vi er en gruppe studerende fra Danmarks Medie- og Journalisthøjskole."
 
 # contact form action
-contact_form_action = "https://formspree.io/f/xgernlzd" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/mpznrayd" # contact form works with https://formspree.io
 
 # copyright
 copyright = "Udviklet af [Daniel Le](https://daniel-le.dk/)"
