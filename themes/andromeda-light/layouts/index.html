@@ -69,7 +69,7 @@
           <div class="row justify-content-center">
             <div class="col-lg-10">
               {{$img:= resources.Get . }}
-              {{$img:= $img.Resize "1020x webp"}}
+              {{$img:= $img.Resize "2000x webp"}}
               <img loading="lazy" decoding="async" class="w-100 img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Banner Image">
             </div>
           </div>
@@ -159,7 +159,6 @@
             </div>
             {{end}}
           </div>
-
           <div class="swiper-pagination"></div>
         </div>
       </div>
@@ -243,7 +242,6 @@
         <div class="pl-0 pl-lg-3">
           {{ if fileExists (add `assets/` .image) }}
           {{$img:= resources.Get .image }}
-          {{$img:= $img.Resize "500x"}}
           <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="Video Thumbnail" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
           {{end}}
         </div>
@@ -360,7 +358,7 @@
       <div class="col-lg-5 col-md-8 text-center mb-5 mb-lg-0" data-aos="fade-up">
         <div class="pr-0 pr-lg-5">
           {{$img:= resources.Get .contact_image }}
-          {{$img:= $img.Resize "575x"}}
+          {{$img:= $img.Resize "2000x"}}
           <img loading="lazy" decoding="async" class="img-fluid" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$img.RelPermalink}}" alt="cobtact image" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
         </div>
       </div>
