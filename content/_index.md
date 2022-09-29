@@ -57,7 +57,7 @@ brands_carousel:
 features:
   enable: true
   subtitle: "Vores mål"
-  title: "Titel om noget med vores mål!"
+  title: "Vores mål!"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
   features_blocks:
   - icon: "las la-venus"
@@ -89,17 +89,17 @@ how_it_works:
   block:
   - subtitle: "Podcastværk, foredragsholder og coach"
     title: "Mikkel Braginsky"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+    description: "Mikkel Braginsky (f.1976) har en fortid med 20 år i kommunikationsbranchen, men arbejder i dag hovedsageligt med workshops, som foredragsholder og coach. Han er manden bag den succesfulde podcast 'Hankøn', der har været med til at danne grundlaget for tilblivelsen af hans bog af samme navn. (Gyldendal)"
     image: "images/features-01.png"
 
   - subtitle: "Studerende og folketingskandidat"
     title: "Lukas Lunøe"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+    description: "Lukas Lunøe er folketingskandidat for Radikale Venstre, og tidligere lansformand for Radikal Ungdom. Han er foretaler for, at mænd bør deltage aktivt i kvindkampen, og har tidligere medvirket i den offentlige presse om netop dette. Til dagligt sturderer han Statskunskab på Københavns Universitet, og er researcher hos Rud Pedersen Public Affairs."
     image: "images/features-02.png"
 
-  - subtitle: "Kommunikationsrådgiver og 'Herlige Svend'"
+  - subtitle: "Kommunikationsrådgiver"
     title: "Sebastian Lynggaard"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+    description: "Sebastian er chefrådgiver inden for corporate kommunikation og branding. Sebastian har en BA i retorik og en overbygning fra CBS i politisk kommunikation og ledelse. Tidligere har han arbejdet både i medicinalindustrien og i NGO-verdenen. Sebastian Lynggaard oprettede i 2019 den anonyme Instagramprofil @herligesvend og postede memes med glimmer, pastelfarver og nuttede dyreunger. (Lead Agency, Bog-ide)"
     image: "images/features-03.png"
 
 # testimonials
