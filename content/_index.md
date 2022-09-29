@@ -65,7 +65,7 @@ features:
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-calendar"
     title: "Events"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    content: "Vi ønsker at arrangere et event, der har til formål at varme op til Kvindernes Internationale Kampdag. Arrangementet vil holde til i Ungdommens Demokratihus, og afholdes i d. 3. marts 2023."
   - icon: "las la-bullhorn"
     title: "Oplsyning"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
