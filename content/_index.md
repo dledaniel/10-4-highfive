@@ -58,7 +58,7 @@ features:
   enable: true
   subtitle: "Vores mål"
   title: "Warmup Week"
-  description: "Vi drømmer om at skabe en festlig uge op til kvindernes kampdag, for at sætte fokus på hvor vigtig ligestilling er for alle"
+  description: "Vi drømmer om at skabe en festlig uge op til kvindernes kampdag, for at sætte fokus på hvor vigtig ligestilling er for alle."
   features_blocks:
   - icon: "las la-venus"
     title: "Kvindekampen"
