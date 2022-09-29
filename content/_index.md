@@ -68,7 +68,7 @@ features:
     content: "Vi ønsker at arrangere et event i samarbejde med KVINFO, der har til formål at varme befolkningen op til Kvindernes Internationale Kampdag. Arrangementet vil holde til i Ungdommens Demokratihus, og afholdes i d. 3. marts 2023."
   - icon: "las la-bullhorn"
     title: "Oplsyning"
-    content: "Kvindernes internationale kampdag markeres den 8. marts hvert år, for at mindes kvinders kulturelle, politiske og socioøkonomiske bedrifter. Vi ønsker at oplyse om KVINFOS arbejde i kampen om øget ligestilling i samfundet."
+    content: "Kvindernes internationale kampdag markeres den 8. marts hvert år, for at mindes kvinders bedrifter. Vi ønsker at oplyse om KVINFOS arbejde i kampen om øget ligestilling i samfundet."
 
 
 # intro_video
